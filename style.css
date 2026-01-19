@@ -1,0 +1,67 @@
+.MAIN {
+    background-color: rgb(39, 39, 39);
+      margin: 50px;
+    }
+
+.title {
+    font-size: 24px;
+    color: rgb(199, 199, 199);
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+
+}
+
+.ewan {
+    font-size: 30px;
+    color: rgb(199, 199, 199);
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+
+}
+.coloredtext {
+    font-size: 20px;
+    color: rgb(140, 238, 255);
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: lighter;
+
+}
+
+.contacts {
+    font-size: 20px;
+    color: rgb(199, 199, 199);
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.paragraph {
+    font-size: 18px;
+    color: rgb(199, 199, 199);
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.note {
+    font-size: 18px;
+    color: rgb(255, 82, 82);
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.link-button {
+    background-color: #59a55c;
+    color: rgb(255, 255, 255);
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    
+}
